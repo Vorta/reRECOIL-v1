@@ -1,0 +1,24 @@
+# Only distribution documentation and notices belong in Git.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/RIGHTS.md
+!/LICENSE-MIT.txt
+!/licenses/
+!/licenses/**
+!/package/
+!/package/README.txt
+*.exe
+*.dll
+*.zbd
+*.zmap
+*.zip
+*.7z
+*.pdb
+*.map
+/artifacts/
+/tests/
+/tools/
+/MAINTAINING.md
+/package/RELEASE-NOTES.md

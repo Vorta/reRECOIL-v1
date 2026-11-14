@@ -1,0 +1,15 @@
+dgVoodoo 2.87.6
+Re-released: Oct 26, 2026
+Author: Dege
+Copyright (c) 2013-2026
+
+The following is the Redistribution rights section of the official readme,
+retrieved 2026-11-14. It is upstream text, not a project-authored license.
+Source: https://www.dege.fw.hu/dgVoodoo2/ReadmeGeneral/
+Alternate: https://dege.freeweb.hu/dgVoodoo2/ReadmeGeneral/
+
+1. Redistribution rights
+
+* You can freely ship your game or game mod with unmodified individual dgVoodoo components (files) included.
+* If you want to host or re-distribute dgVoodoo as a standalone component for any reason then you must provide the original, unmodified .zip package.
+* You cannot bundle dgVoodoo inside launchers or frameworks, for general use across multiple applications
